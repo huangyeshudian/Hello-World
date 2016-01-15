@@ -1,2 +1,4 @@
 ## Hello-World
-*The first repository*
+*In the first repository*
+
+This is my first day on GitHub.
